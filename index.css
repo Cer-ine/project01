@@ -1,0 +1,19 @@
+section { 
+    font-size: 35px ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+   
+}
+span { 
+    color: grey; 
+    font-size: 20px ;
+
+}
+body {
+
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh; 
+
+}
